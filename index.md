@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to my page
 
-You can use the [editor on GitHub](https://github.com/abdellah-hajouj/abdellah-hajouj/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer in scelerisque urna. Nunc quis tellus et odio gravida fringilla. Fusce sed aliquam magna. Curabitur nec laoreet nisi. Quisque venenatis vitae mi ac dignissim. Duis interdum, quam eget elementum rutrum, neque erat interdum nunc, at ultrices nunc ligula posuere sapien. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vestibulum vel orci id purus feugiat iaculis. Proin at semper nisl.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Aenean vitae semper odio. Morbi imperdiet placerat ullamcorper. Proin ac orci vitae ligula rhoncus porttitor in eget nisl. Ut sodales elit vitae mauris blandit, sit amet consequat lorem gravida. In hac habitasse platea dictumst. Duis pellentesque tortor vitae lectus cursus, sed tincidunt risus consectetur. Quisque cursus venenatis urna ac semper. Donec venenatis erat non nisi scelerisque fermentum. Nullam at nisl ac sapien laoreet eleifend a eu orci. Mauris efficitur tortor sit amet quam laoreet, a dignissim erat rutrum. Donec vel tortor faucibus, mollis eros varius, vestibulum tellus. Ut varius sollicitudin efficitur. Nullam et pretium libero, sit amet lobortis turpis.
+
+Aenean tellus quam, interdum id metus at, rutrum hendrerit mauris. Integer nec fermentum tellus. In tincidunt risus id pharetra hendrerit. Vestibulum viverra risus at erat ullamcorper, eget euismod ex tincidunt. Pellentesque fermentum aliquet urna, vitae consectetur mi facilisis id. Curabitur aliquam nunc quis ante iaculis, nec efficitur augue vehicula. Morbi euismod est a porttitor imperdiet. Aenean dignissim gravida sem, vel ornare diam vehicula et. Morbi egestas faucibus metus ac fermentum. Ut quis libero tempus libero luctus hendrerit sed ac sapien. Curabitur ut pellentesque ante. Donec at varius mi, quis scelerisque velit. Mauris malesuada nulla est, luctus bibendum mauris sodales volutpat. Praesent tincidunt consequat nibh, vel aliquet magna. Nulla eleifend sem quis blandit vestibulum.
+
+
 
 ### Markdown
 
@@ -11,27 +15,4 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/abdellah-hajouj/abdellah-hajouj/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
